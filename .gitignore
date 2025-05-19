@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/Logs/TinyWorldGameJam.log
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry_0.bin
