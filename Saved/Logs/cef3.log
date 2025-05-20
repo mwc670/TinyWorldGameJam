@@ -1,9 +1,4 @@
-[0517/191305.404:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0517/191307.066:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0517/191440.709:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0517/191440.714:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0517/191505.821:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0517/193401.689:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0517/193401.703:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0517/202543.271:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0517/202543.274:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0519/210757.851:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0519/210957.062:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0519/215936.467:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0519/215936.480:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
